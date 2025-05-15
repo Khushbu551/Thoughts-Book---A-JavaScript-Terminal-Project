@@ -71,6 +71,8 @@ node thoughtsBook.js
 
 **This project helps users reflect on their thoughts and learn more about their thinking patterns. It provides a fun and engaging way to explore logic, emotions, senses and memories.**
 
+**Note:** THis project was built for learning purposes to explore and practice [mention technologies]. Security and production-level optimizations are not the primary focus.
+
 ## Example Usage
 
 ```
